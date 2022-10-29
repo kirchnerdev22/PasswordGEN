@@ -1,100 +1,40 @@
-# 03 JavaScript: Password Generator
+# Password generator
 
-## Your Task
+This is my portfolio README.md for my work!
 
-This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+The following README contains information about the work done in this project:
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
+* Description 
 
-## User Story
+* Screenshots of finished website
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+* About Me
 
-## Acceptance Criteria
+* Link to deployed site
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-```
+# Description
 
-## Mock-Up
+This project is a portfolio landing page with images, and links to completed projects.
 
-The following image shows the web application's appearance and functionality:
+As per the acceptance criteria, this page:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+* Contains a buttons that creates a randomized password.
 
-## Grading Requirements
+* Has a series of prompts to allow the user to choose what criteria they want included in their password.
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+* Allows the user to make a password between 8 and 128 characters.
 
-This Challenge is graded based on the following criteria: 
+* Dispalys the finished password after all promopts are filled.
 
-### Technical Acceptance Criteria: 40%
+![Screenshot (19)](https://user-images.githubusercontent.com/114694410/198755576-8fcdef79-4abe-45ee-964a-0fbdaccf9675.png)
 
-* Satisfies all of the preceding acceptance criteria.
+# About Me
 
-### Deployment: 32%
+Hey! Welcome back. If you haven't been here before I am Trent, a 26 year old Hoosier based now in Nashville. This is my 3rd homework assignment. 
 
-* Application deployed at live URL.
+This project was actually pretty difficult for me as I have been struggling with Javascript. I like the functionality of the finished project and feel good about what I have made. 
 
-* Application loads with no errors.
+# Link To Deployed Site
 
-* Application GitHub URL submitted.
+FUTURE INPUT
 
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
